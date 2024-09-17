@@ -1,16 +1,15 @@
-## Hi there 👋
+hi there. **WOLF33B** here<br>
+Nothing Special, just my personal Github Page<br>
+Im a Python Develop (Specialist on Dekstop Software and Machine Learning/AI)
+I have some qualified certificate  [certificate from dicoding]
 
-<!--
-**WOLF33B/WOLF33B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyra-Code79&layout=pie&langs_count=8&theme=tokyonight"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLF33B&show_icons=true" />
+</picture>
+</div>
