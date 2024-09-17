@@ -1,7 +1,10 @@
-<h1 align="center">Welcome</h1>
+
 <p align="center">
-  Hi there! I'm <strong>WOLF33B</strong>.<br>
-  I'm a Python Developer specializing in Desktop Software and Machine Learning/AI.<br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=60&duration=1200&pause=1000&color=FF3030&center=true&width=535&height=180&lines=WOLF33B+GITHUB;Desktop+Software;IoT+Developer;Artificial+intelligence;Machine+Learning+;DIY+Electronics+Enthusiast" alt="Typing SVG" /></a>
+<br>Hi there! I'm <strong>WOLF33B</strong>.<br>
+I'm primarily a Python Developer specializing in Desktop Software and Machine Vision.<br>
+However, I often work on other projects, such as IoT devices. You can see my work on Instagram at @WOLF33B.
+
 </p>
 <p align="center" style="text-decoration: none; color: inherit;">
   <img src="https://img.shields.io/github/followers/WOLF33B?style=social" alt="GitHub followers"/>
