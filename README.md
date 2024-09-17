@@ -9,22 +9,32 @@
   <img src="https://img.shields.io/reddit/user-karma/combined/wolf33b" alt="Karma"/>
 </p>
 <p align="center">
-  
+
 </p>
-<h2 align="center">🛠️Current Project</h2>
-<p align="center" style="text-decoration: none; color: inherit;">
-  <a href="https://github.com/WOLF33B/RSESX" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/github/downloads/wolf33b/RSESX/total?style=for-the-badge&color=fd441c&label=RSESX" alt="RSESX"/>
-  </a>
-  <a href="https://github.com/WOLF33B/I2V-W" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/github/downloads/wolf33b/I2V-W/total?style=for-the-badge&color=fd441c&label=I2V-W" alt="I2V-W"/>
-  </a>
-  <a href="https://xdaforums.com/t/xperia-all-in-one-debloat-tool.4536533" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/XAIOD-XDA-yellow?style=for-the-badge&link=https%3A%2F%2Fxdaforums.com%2Ft%2Fxperia-all-in-one-debloat-tool.4536533%2F" alt="XIAOD"/>
-  </a>
-  <a href="https://xdaforums.com/t/mod-root-add-more-ram-for-free.4667445/#post-89462182" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/Xperia_RE-XDA-yellow?style=for-the-badge" alt="ram"/>
-  </a>
+<h2 align="center">🛠️All Project🛠️</h2>
+<p align="center">
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/WOLF33B/RSESX" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/github/downloads/wolf33b/RSESX/total?style=for-the-badge&color=fd441c&label=RSESX" alt="RSESX"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://github.com/WOLF33B/I2V-W" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/github/downloads/wolf33b/I2V-W/total?style=for-the-badge&color=fd441c&label=I2V-W" alt="I2V-W"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://xdaforums.com/t/xperia-all-in-one-debloat-tool.4536533" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/badge/XAIOD-XDA-yellow?style=for-the-badge&link=https%3A%2F%2Fxdaforums.com%2Ft%2Fxperia-all-in-one-debloat-tool.4536533%2F" alt="XIAOD"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
+      <a href="https://xdaforums.com/t/mod-root-add-more-ram-for-free.4667445/#post-89462182" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/badge/Xperia_RE-XDA-yellow?style=for-the-badge" alt="ram"/>
+      </a>
+    </td>
+</table>
 </p>
 <p align="center">
   <br><br><br><br>
