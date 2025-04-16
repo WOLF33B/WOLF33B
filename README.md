@@ -19,6 +19,11 @@ However, I often work on other projects, such as IoT devices. You can see my wor
 <p align="center">
   <table align="center" style="border: none; border-collapse: collapse;">
     <td style="border: none; text-align: center;">
+      <a href="https://github.com/WOLF33B/JAPS" style="text-decoration: none; color: inherit;">
+        <img src="https://img.shields.io/github/downloads/wolf33b/JAPS/total?style=for-the-badge&color=fd441c&label=JAPS" alt="JAPS"/>
+      </a>
+    </td>
+    <td style="border: none; text-align: center;">
       <a href="https://github.com/WOLF33B/RSESX" style="text-decoration: none; color: inherit;">
         <img src="https://img.shields.io/github/downloads/wolf33b/RSESX/total?style=for-the-badge&color=fd441c&label=RSESX" alt="RSESX"/>
       </a>
