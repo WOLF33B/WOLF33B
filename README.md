@@ -19,7 +19,7 @@ However, I often work on other projects, such as IoT devices. You can see my wor
 <p align="center">
   <table align="center" style="border: none; border-collapse: collapse;">
     <td style="border: none; text-align: center;">
-      <a href="https://github.com/WOLF33B/ATOM-Software" style="text-decoration: none; color: inherit;">
+      <a href="https://github.com/WOLF33B/Fursync" style="text-decoration: none; color: inherit;">
         <img src="https://img.shields.io/github/downloads/wolf33b/Fursync/total?style=for-the-badge&color=fd441c&label=Fursync" alt="Fursync"/>
       </a>
     </td>
